@@ -1,0 +1,5 @@
+PCI Express Version,Encoding,Bandwith (GT/s),Effective data bandwith per lane (Mo/s)
+1.0,8b/10b,2.5GT/s,250 Mo/s
+2.0,8b/10b,5GT/s,500 Mo/s
+3.0,128b/130b,8GT/s,984.6 Mo/s
+4.0,128b/130b,16GT/s,1969.2 Mo/s
